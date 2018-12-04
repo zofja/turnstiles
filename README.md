@@ -66,6 +66,7 @@ Correctness is going to be the most important factor. Solutions which limit the 
 This is where the most interesting questions and their answers will appear. Please send them to `dopiera@mimuw.edu.pl`.
 
 > Can I assume that there will not be more than 232 Mutexes?
+
 NO, let's assume that there can be as many as one can fit on a machine. On large machines 232 might be too few.
 
 > Does the sentence "Solutions which limit the concurrency beyond what is necessary will be considered wrong." mean that 
