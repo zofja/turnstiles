@@ -1,4 +1,4 @@
-# Second project from the Concurrent Programming course
+# Turnstiles
 
 ## Motivation
 
@@ -98,4 +98,4 @@ You should keep the invariant that there are not significantly more turnstiles t
 > How should one deliver the solution?
 The aforementioned result of `git diff` against the tip of the master branch should be delivered via moodle in a file called `turnstile.diff`.
 
-*Author: Marek Dopiera*
+*Author: Marek Dopiera* @ MIM UW
